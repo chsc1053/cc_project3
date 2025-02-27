@@ -1,0 +1,17 @@
+/home/data/IF-1.txt file contains 287 words.
+
+/home/data/AlwaysRememberUsThisWay-1.txt file contains 223 words.
+
+Both files collectively contain 510 words.
+
+Top 3 most frequent words and their respective counts in /home/data/IF-1.txt:
+    'and' occured 16 times.
+    'if' occured 14 times.
+    'you' occured 14 times.
+
+Top 3 most frequent words and their respective counts in /home/data/AlwaysRememberUsThisWay-1.txt (with contraction handling):
+    'i' occured 15 times.
+    'the' occured 13 times.
+    'will' occured 8 times.
+
+IP address of the machine is 172.17.0.3
